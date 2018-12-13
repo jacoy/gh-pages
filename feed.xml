@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Liwen Art</title>
+    <title>Liwen Arts</title>
     <link href="https://jacoy.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://jacoy.github.io/gh-pages" />
-    <updated>2018-12-13T12:41:33+08:00</updated>
+    <updated>2018-12-13T12:57:00+08:00</updated>
     <author>
         <name>jacoyang</name>
     </author>
@@ -17,17 +17,19 @@
         <link href="https://jacoy.github.io/gh-pages/1.html"/>
         <id>https://jacoy.github.io/gh-pages/1.html</id>
 
-        <updated>2018-12-13T12:35:26+08:00</updated>
+        <updated>2018-12-13T12:48:04+08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://jacoy.github.io/gh-pages/media/posts/1/" alt="" />
-                    1
+                        <img src="https://jacoy.github.io/gh-pages/media/posts/1/4ff29e47810259.58872c8d387f3.jpg" alt="" />
+                    测试图片
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://jacoy.github.io/gh-pages/media/posts/1/" alt="" />
-                1
+                    <img src="https://jacoy.github.io/gh-pages/media/posts/1/4ff29e47810259.58872c8d387f3.jpg" alt="" />
+                <figure class="post__image post__image--full" ><img src="https://jacoy.github.io/gh-pages/media/posts/1/4ff29e47810259.58872c8d387f3.jpg" alt="测试图片" width="1400" height="933">
+<figcaption >测试图片</figcaption>
+</figure>
             ]]>
         </content>
     </entry>
