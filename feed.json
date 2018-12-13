@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Liwen Art",
+    "description": "",
+    "home_page_url": "https://jacoy.github.io/gh-pages",
+    "feed_url": "https://jacoy.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "jacoyang"
+    },
+    "items": [
+        {
+            "id": "https://jacoy.github.io/gh-pages/1.html",
+            "url": "https://jacoy.github.io/gh-pages/1.html",
+            "title": "1",
+            "summary": "1",
+            "content_html": "1",
+            "image": "https://jacoy.github.io/gh-pages/media/posts/1/",
+            "author": {
+                "name": "jacoyang"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-12-13T12:35:26+08:00",
+            "date_modified": "2018-12-13T12:35:26+08:00"
+        }
+    ]
+}
